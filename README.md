@@ -4,6 +4,7 @@ Repository for practical data science work, group composed of Matheus, Lucas and
 # Theme
 ###
 # Brazilian CS:GO
+Link: https://www.kaggle.com/datasets/gamersclub/brazilian-csgo-plataform-dataset-by-gamers-club
 
 
 # 20 questions to be answered

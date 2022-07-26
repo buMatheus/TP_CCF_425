@@ -30,23 +30,23 @@ Link: https://www.kaggle.com/datasets/gamersclub/brazilian-csgo-plataform-datase
   - Players with lower potentials may have killed more than players with higher potentials?
   
 # 20 questões a serem respondidas.
-  1 - É possível separar os jogadores por categorias??
-  2 - É possível conhecer os jogadores que tiveram o melhor desempenho
-  3 - Quais são os mapas mais jogados?
-  4 - De quais mapas as pessoas mais sentem falta?
-  5 - Quais mapas os jogadores mais ganham?
-  6 - Qual mapa os jogadores têm mais desempenho?
-  7 - Os níveis dizem muito sobre os jogadores?
-  8 - Quais níveis têm os jogadores com melhor desempenho?
-  9 - É possível prever quais jogadores têm mais qualidade?
-  10 - É possível prever quem ganhou?
-  11 - Quais são os atributos de maior peso para um jogador??
-  12 - Quais os fatores que determinam sua vitória?
-  13 - Os mapas possuem padrões de jogadores?
-  14 - Como podemos medir a qualidade de um jogador?
-  15 - É possivel saber quais jogadores desempenharam papeis mais importantes durante o jogo?
-  16 - É possivel prever jogadores que possuem um função?
-  17 -  É possivel prever todas as funções de um time?
-  18 - pode-se associar categorias de jogadores devido ao desempenhos?
-  19 - É possivel saber o potencial dos jogadores?
-  20 - Jogadores com potenciais menores podem ter matado mais que jogadores com potenciais maiores?
+  - É possível separar os jogadores por categorias??
+  - É possível conhecer os jogadores que tiveram o melhor desempenho
+  - Quais são os mapas mais jogados?
+  - De quais mapas as pessoas mais sentem falta?
+  - Quais mapas os jogadores mais ganham?
+  - Qual mapa os jogadores têm mais desempenho?
+  - Os níveis dizem muito sobre os jogadores?
+  - Quais níveis têm os jogadores com melhor desempenho?
+  - É possível prever quais jogadores têm mais qualidade?
+  - É possível prever quem ganhou?
+  - Quais são os atributos de maior peso para um jogador??
+  - Quais os fatores que determinam sua vitória?
+  - Os mapas possuem padrões de jogadores?
+  - Como podemos medir a qualidade de um jogador?
+  - É possivel saber quais jogadores desempenharam papeis mais importantes durante o jogo?
+  - É possivel prever jogadores que possuem um função?
+  - É possivel prever todas as funções de um time?
+  - pode-se associar categorias de jogadores devido ao desempenhos?
+  - É possivel saber o potencial dos jogadores?
+  - Jogadores com potenciais menores podem ter matado mais que jogadores com potenciais maiores?
